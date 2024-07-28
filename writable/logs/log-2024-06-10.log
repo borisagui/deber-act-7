@@ -1,0 +1,659 @@
+CRITICAL - 2024-06-10 00:13:32 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:14:23 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:17:56 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:19:01 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:20:15 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:20:23 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:20:23 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:20:24 --> ParseError: syntax error, unexpected token "public", expecting end of file
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:21:15 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:21:15 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la columna «id_cliente» en la relación «personas»
+LINE 1: INSERT INTO personas (id_cliente,numero_factura,nombres_clie...
+                              ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO per...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO per...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO per...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO per...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:21:15 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la columna «id_cliente» en la relación «personas»
+LINE 1: INSERT INTO personas (id_cliente,numero_factura,nombres_clie...
+                              ^
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:21:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la columna «id_cliente» en la relación «personas»
+LINE 1: INSERT INTO personas (id_cliente,numero_factura,nombres_clie...
+                              ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:21:15 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la columna «id_cliente» en la relación «personas»
+LINE 1: INSERT INTO personas (id_cliente,numero_factura,nombres_clie...
+                              ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la columna «id_cliente» en la relación «personas»
+LINE 1: INSERT INTO personas (id_cliente,numero_factura,nombres_clie...
+                              ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:21:43 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:21:43 --> ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10) in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:21:43 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:21:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:21:43 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:22:36 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:22:36 --> ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10) in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:22:36 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:22:36 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:22:36 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:22:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(jlgmail.com)', '(0911123040)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:22:47 --> ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10) in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(jlgmail.com)', '(0911123040)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:22:47 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/jlgmail.com/0911123040/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(jlgmail.com)', '(0911123040)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:22:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(jlgmail.com)', '(0911123040)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:22:47 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(jlgmail.com)\',\'(0911123040)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(jlgmail.com)', '(0911123040)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:22:53 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:22:53 --> ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10) in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:22:53 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/0911123040/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:22:53 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:22:53 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character varying(10)', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(0911123040)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(0911123040)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:23:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:23:40 --> ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character(1) in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:23:40 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character(1)
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/09111230/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:23:40 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character(1)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:23:40 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character(1)
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  el valor es demasiado largo para el tipo character(1)', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:30:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:30:11 --> ErrorException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_estado_civil_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:30:11 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_estado_civil_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/09111230/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:30:11 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_estado_civil_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:30:11 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_estado_civil_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_estado_civil_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:32:11 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:32:12 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «cliente»
+LINE 1: INSERT INTO cliente (id_cliente,numero_factura,nombres_clien...
+                    ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:32:12 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «cliente»
+LINE 1: INSERT INTO cliente (id_cliente,numero_factura,nombres_clien...
+                    ^
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/09111230/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:32:12 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «cliente»
+LINE 1: INSERT INTO cliente (id_cliente,numero_factura,nombres_clien...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:32:12 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «cliente»
+LINE 1: INSERT INTO cliente (id_cliente,numero_factura,nombres_clien...
+                    ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «cliente»
+LINE 1: INSERT INTO cliente (id_cliente,numero_factura,nombres_clien...
+                    ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:33:25 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-10 00:33:25 --> ErrorException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_sexo_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cli...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cli...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cli...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cli...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil...', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-10 00:33:25 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_sexo_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/09111230/jlgmail.com/O/viudo]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:33:25 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_sexo_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:33:25 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_sexo_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  el nuevo registro para la relación «cliente» viola la restricción «check» «cliente_sexo_check»
+DETAIL:  La fila que falla contiene (8, 6, (joselorenzo), (barriovillamil), (09111230), (jlgmail.com), (O), (viudo)).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 5 APPPATH\Controllers\Home.php(28): CodeIgniter\Database\BaseConnection->query('INSERT INTO cliente (id_cliente,numero_factura,nombres_cliente,direccion,telefono,correo_electronico,sexo,estado_civil) VALUES ((8),(6),\'(joselorenzo)\',\'(barriovillamil)\',\'(09111230)\',\'(jlgmail.com)\',\'(O)\',\'(viudo)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:35:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 27.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-10 00:35:02 --> ErrorException: Undefined variable $results
+[Method: GET, Route: insertar/8/6/joselorenzo/barriovillamil/09111230/jlgmail.com/O/viudo]
+in APPPATH\Controllers\Home.php on line 29.
+ 1 APPPATH\Controllers\Home.php(29): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $results', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 29)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(8)', '(6)', '(joselorenzo)', '(barriovillamil)', '(09111230)', '(jlgmail.com)', '(O)', '(viudo)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:42:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->cliente()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:43:19 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 20.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->factura()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-10 00:45:40 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->mayor25()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))

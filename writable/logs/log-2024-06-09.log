@@ -1,0 +1,1580 @@
+CRITICAL - 2024-06-09 17:19:06 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:19:33 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:19:34 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:19:34 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:22:13 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:22:56 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 17:23:57 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «my_table»
+LINE 1: SELECT name, title, email FROM my_table
+                                       ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT name, ti...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT name, ti...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT name, ti...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT name, ti...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->hola()
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-09 17:23:57 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «my_table»
+LINE 1: SELECT name, title, email FROM my_table
+                                       ^
+[Method: GET, Route: hola]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT name, title, email FROM my_table')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:23:57 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la relación «my_table»
+LINE 1: SELECT name, title, email FROM my_table
+                                       ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT name, title, email FROM my_table')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT name, title, email FROM my_table')
+ 3 APPPATH\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT name, title, email FROM my_table')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:23:57 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la relación «my_table»
+LINE 1: SELECT name, title, email FROM my_table
+                                       ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la relación «my_table»
+LINE 1: SELECT name, title, email FROM my_table
+                                       ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT name, title, email FROM my_table')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT name, title, email FROM my_table')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT name, title, email FROM my_table')
+ 5 APPPATH\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT name, title, email FROM my_table')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 17:29:22 --> ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «FROM»
+LINE 1: ...ro_factura, nombres_cliente, direccion, telefono, FROM clien...
+                                                             ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT id_clien...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT id_clien...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_clien...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT id_clien...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->hola()
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-09 17:29:22 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «FROM»
+LINE 1: ...ro_factura, nombres_cliente, direccion, telefono, FROM clien...
+                                                             ^
+[Method: GET, Route: hola]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:29:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «FROM»
+LINE 1: ...ro_factura, nombres_cliente, direccion, telefono, FROM clien...
+                                                             ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 3 APPPATH\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:29:22 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «FROM»
+LINE 1: ...ro_factura, nombres_cliente, direccion, telefono, FROM clien...
+                                                             ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «FROM»
+LINE 1: ...ro_factura, nombres_cliente, direccion, telefono, FROM clien...
+                                                             ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 5 APPPATH\Controllers\Home.php(13): CodeIgniter\Database\BaseConnection->query('SELECT id_cliente, numero_factura, nombres_cliente, direccion, telefono, FROM cliente')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:34:29 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:35:19 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:35:51 --> ErrorException: Undefined variable $db
+[Method: GET, Route: hola]
+in APPPATH\Controllers\Home.php on line 12.
+ 1 APPPATH\Controllers\Home.php(12): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $db', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 12)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 17:37:02 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 17:37:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 17:37:51 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 17:39:13 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 17:48:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 12.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:48:43 --> ErrorException: Undefined variable $builder
+[Method: GET, Route: ord]
+in APPPATH\Controllers\Home.php on line 31.
+ 1 APPPATH\Controllers\Home.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $builder', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ord()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:49:37 --> Error: Undefined constant "App\Controllers\builder"
+[Method: GET, Route: ord]
+in APPPATH\Controllers\Home.php on line 31.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ord()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 17:49:50 --> ErrorException: Undefined variable $builder
+[Method: GET, Route: ord]
+in APPPATH\Controllers\Home.php on line 31.
+ 1 APPPATH\Controllers\Home.php(31): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $builder', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 31)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ord()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 18:50:48 --> ErrorException: Undefined variable $builder
+[Method: GET, Route: ord]
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $builder', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ord()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 18:50:49 --> ErrorException: Undefined variable $builder
+[Method: GET, Route: ord]
+in APPPATH\Controllers\Home.php on line 37.
+ 1 APPPATH\Controllers\Home.php(37): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $builder', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 37)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->ord()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 18:50:54 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola1()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 20:05:18 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 26.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola1()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 21:37:53 --> ParseError: syntax error, unexpected token "=>", expecting "]"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 57.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 21:38:30 --> ParseError: syntax error, unexpected token ";", expecting "]"
+[Method: GET, Route: /]
+in APPPATH\Controllers\Home.php on line 57.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(296): CodeIgniter\Autoloader\Autoloader->includeFile('C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(272): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Home')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Home')
+ 4 SYSTEMPATH\CodeIgniter.php(887): class_exists('\\App\\Controllers\\Home', true)
+ 5 SYSTEMPATH\CodeIgniter.php(496): CodeIgniter\CodeIgniter->startController()
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 21:39:23 --> Error: Class "Config\Service" not found
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 21:42:25 --> Error: Class "Config\Service" not found
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 21:50:10 --> Error: Class "Config\Service" not found
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 21:58:55 --> Error: Class "Config\Service" not found
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:00:27 --> Error: Class "Config\Service" not found
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:02:17 --> Error: Class "Config\Service" not found
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 55.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:20:42 --> ErrorException: Undefined variable $nombre
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 68.
+ 1 APPPATH\Controllers\Home.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:21:07 --> ErrorException: Undefined variable $nombre
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 68.
+ 1 APPPATH\Controllers\Home.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:22:05 --> ErrorException: Undefined variable $nombre
+[Method: POST, Route: insertar]
+in APPPATH\Controllers\Home.php on line 68.
+ 1 APPPATH\Controllers\Home.php(68): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $nombre', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 68)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 22:25:55 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la columna «title»
+LINE 1: SELECT &quot;title&quot;, &quot;content&quot;, &quot;date&quot;
+               ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT "title",...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT "title",...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "title",...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT "title",...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(81): CodeIgniter\Database\BaseBuilder->get()
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 22:25:55 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la columna «title»
+LINE 1: SELECT &quot;title&quot;, &quot;content&quot;, &quot;date&quot;
+               ^
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT "title", "content", "date"
+FROM "personas"', [], false)
+ 2 APPPATH\Controllers\Home.php(81): CodeIgniter\Database\BaseBuilder->get()
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:25:55 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la columna «title»
+LINE 1: SELECT &quot;title&quot;, &quot;content&quot;, &quot;date&quot;
+               ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT "title", "content", "date"
+FROM "personas"')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "title", "content", "date"
+FROM "personas"')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT "title", "content", "date"
+FROM "personas"', [], false)
+ 4 APPPATH\Controllers\Home.php(81): CodeIgniter\Database\BaseBuilder->get()
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:25:55 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la columna «title»
+LINE 1: SELECT &quot;title&quot;, &quot;content&quot;, &quot;date&quot;
+               ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la columna «title»
+LINE 1: SELECT &quot;title&quot;, &quot;content&quot;, &quot;date&quot;
+               ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT "title", "content", "date"
+FROM "personas"')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT "title", "content", "date"
+FROM "personas"')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT "title", "content", "date"
+FROM "personas"')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(1629): CodeIgniter\Database\BaseConnection->query('SELECT "title", "content", "date"
+FROM "personas"', [], false)
+ 6 APPPATH\Controllers\Home.php(81): CodeIgniter\Database\BaseBuilder->get()
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 22:42:22 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola1()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 22:42:27 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 22:42:33 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 28.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola1()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 22:42:39 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola2()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 22:42:39 --> ErrorException: pg_query(): Query failed: ERROR:  no existe la función month(date)
+LINE 2: ...TE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fe...
+                                                             ^
+HINT:  Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos. in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT f.Detall...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT f.Detall...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT f.Detall...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(36): CodeIgniter\Database\BaseConnection->query('SELECT f.Detall...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->hola2()
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-09 22:42:39 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la función month(date)
+LINE 2: ...TE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fe...
+                                                             ^
+HINT:  Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+[Method: GET, Route: hola2]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(36): CodeIgniter\Database\BaseConnection->query('SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola2()
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:42:39 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  no existe la función month(date)
+LINE 2: ...TE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fe...
+                                                             ^
+HINT:  Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 3 APPPATH\Controllers\Home.php(36): CodeIgniter\Database\BaseConnection->query('SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola2()
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 22:42:39 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  no existe la función month(date)
+LINE 2: ...TE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fe...
+                                                             ^
+HINT:  Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  no existe la función month(date)
+LINE 2: ...TE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fe...
+                                                             ^
+HINT:  Ninguna función coincide en el nombre y tipos de argumentos. Puede ser necesario agregar conversión explícita de tipos.', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 5 APPPATH\Controllers\Home.php(36): CodeIgniter\Database\BaseConnection->query('SELECT f.Detalle_Productos, SUM(f.Precio) AS Precio_Acumulado, COUNT(*) AS Frecuencia_Compra, c.Nombres_Cliente FROM
+    FACTURA f JOIN CLIENTE c ON f.Numero_Factura = c.Numero_Factura WHERE MONTH(f.Fecha_Factura) = 6 AND YEAR(f.Fecha_Factura) = 2022 GROUP BY
+    f.Detalle_Productos, c.Nombres_Cliente ORDER BY Precio_Acumulado DESC LIMIT 3;')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola2()
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 22:45:57 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 14.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->hola()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:14:54 --> ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:14:54 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:14:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:14:54 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())
+                                                                     ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:15:16 --> ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:15:16 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:15:16 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:15:16 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())
+                                                                     ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:24:26 --> ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:24:26 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:24:26 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:24:26 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())
+                                                                     ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:24:43 --> ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:24:43 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:24:43 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:24:43 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())
+                                                                     ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:24:47 --> ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:24:47 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+[Method: POST, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:24:47 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:24:47 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())
+                                                                     ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:25:54 --> ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:25:54 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+[Method: POST, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:25:54 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:25:54 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, 'Juan', 'Perez', 'maldivas', 'qw', CURRENT_TIMESTAMP())
+                                                                     ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  error de sintaxis en o cerca de «)»
+LINE 1: ...ULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())
+                                                                     ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (DEFAULT, \'Juan\', \'Perez\', \'maldivas\', \'qw\', CURRENT_TIMESTAMP())')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo", "last_update") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:, :last_update:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(87): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:28:38 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:28:38 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+[Method: POST, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:28:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:28:38 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:28:46 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:28:46 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+[Method: POST, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:28:46 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:28:46 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:28:51 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:28:51 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:28:51 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:28:51 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:29:15 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:29:15 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:29:15 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:29:15 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:29:22 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:29:22 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:29:22 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:29:22 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:29:34 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "pe...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "pe...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "pe...')
+#4 C:\xampp\htdocs\api\system\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "pe...', Array, false)
+#5 C:\xampp\htdocs\api\app\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert(Array)
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar()
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#8 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#9 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#10 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#11 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#12 {main}
+CRITICAL - 2024-06-09 23:29:34 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+[Method: GET, Route: insertar]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 2 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 3 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 4 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 5 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 7 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 8 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:29:34 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 4 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 5 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 6 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 7 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 9 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+10 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:29:34 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(2).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (\'2\', \'Juan\', \'Perez\', \'maldivas\', \'qw\')')
+ 5 SYSTEMPATH\Database\BaseBuilder.php(2325): CodeIgniter\Database\BaseConnection->query('INSERT INTO "personas" ("id", "nombre", "apellido", "direccion", "correo") VALUES (:id:, :nombre:, :apellido:, :direccion:, :correo:)', [...], false)
+ 6 APPPATH\Controllers\Home.php(86): CodeIgniter\Database\BaseBuilder->insert([...])
+ 7 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 8 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 9 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+10 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+11 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+12 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:41:04 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::insertar(), 0 passed in C:\xampp\htdocs\api\system\CodeIgniter.php on line 933 and exactly 4 expected
+[Method: GET, Route: insertar]
+in APPPATH\Controllers\Home.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:41:36 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::insertar(), 0 passed in C:\xampp\htdocs\api\system\CodeIgniter.php on line 933 and exactly 4 expected
+[Method: GET, Route: insertar]
+in APPPATH\Controllers\Home.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:42:07 --> ArgumentCountError: Too few arguments to function App\Controllers\Home::insertar(), 0 passed in C:\xampp\htdocs\api\system\CodeIgniter.php on line 933 and exactly 4 expected
+[Method: GET, Route: insertar]
+in APPPATH\Controllers\Home.php on line 88.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar()
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:50:23 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "mv@gmail.com"
+[Method: GET, Route: insertar/4/manuel/valdes/barriocentenario/mv@gmail.com]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('insertar/4/manuel/valdes/barriocentenario/mv@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('insertar/4/manuel/valdes/barriocentenario/mv@gmail.com')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 23:50:38 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 89.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:50:38 --> ErrorException: pg_query(): Query failed: ERROR:  INSERT tiene más expresiones que columnas de destino
+LINE 1: ...('(4)','(manuel)','(valdes)','(barriocentenario)','(mvgmail....
+                                                             ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO per...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO per...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO per...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO per...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenar...', '(mvgmail.com)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-09 23:50:38 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  INSERT tiene más expresiones que columnas de destino
+LINE 1: ...('(4)','(manuel)','(valdes)','(barriocentenario)','(mvgmail....
+                                                             ^
+[Method: GET, Route: insertar/4/manuel/valdes/barriocentenario/mvgmail.com]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:50:38 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  INSERT tiene más expresiones que columnas de destino
+LINE 1: ...('(4)','(manuel)','(valdes)','(barriocentenario)','(mvgmail....
+                                                             ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 3 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:50:38 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  INSERT tiene más expresiones que columnas de destino
+LINE 1: ...('(4)','(manuel)','(valdes)','(barriocentenario)','(mvgmail....
+                                                             ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  INSERT tiene más expresiones que columnas de destino
+LINE 1: ...(\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail....
+                                                             ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 5 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 23:52:16 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 89.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:52:16 --> ErrorException: pg_query(): Query failed: ERROR:  la sintaxis de entrada no es válida para tipo integer: «(4)»
+LINE 1: ...nas (id,nombre,apellido,direccion,correo) VALUES ('(4)','(ma...
+                                                             ^ in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO per...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO per...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO per...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO per...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenar...', '(mvgmail.com)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-09 23:52:16 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  la sintaxis de entrada no es válida para tipo integer: «(4)»
+LINE 1: ...nas (id,nombre,apellido,direccion,correo) VALUES ('(4)','(ma...
+                                                             ^
+[Method: GET, Route: insertar/4/manuel/valdes/barriocentenario/mvgmail.com]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:52:16 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  la sintaxis de entrada no es válida para tipo integer: «(4)»
+LINE 1: ...nas (id,nombre,apellido,direccion,correo) VALUES ('(4)','(ma...
+                                                             ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 3 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:52:16 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  la sintaxis de entrada no es válida para tipo integer: «(4)»
+LINE 1: ...nas (id,nombre,apellido,direccion,correo) VALUES ('(4)','(ma...
+                                                             ^
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  la sintaxis de entrada no es válida para tipo integer: «(4)»
+LINE 1: ...nas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(ma...
+                                                             ^', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 5 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES (\'(4)\',\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 23:52:47 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 89.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:52:47 --> ErrorException: Undefined variable $results
+[Method: GET, Route: insertar/4/manuel/valdes/barriocentenario/mvgmail.com]
+in APPPATH\Controllers\Home.php on line 91.
+ 1 APPPATH\Controllers\Home.php(91): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Undefined variable $results', 'C:\\xampp\\htdocs\\api\\app\\Controllers\\Home.php', 91)
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:57:58 --> CodeIgniter\HTTP\Exceptions\BadRequestException: The URI you submitted has disallowed characters: "jl@gmail.com"
+[Method: GET, Route: insertar/5/jose/lorenzo/barriovillamil/jl@gmail.com]
+in SYSTEMPATH\Router\Router.php on line 736.
+ 1 SYSTEMPATH\Router\Router.php(203): CodeIgniter\Router\Router->checkDisallowedChars('insertar/5/jose/lorenzo/barriovillamil/jl@gmail.com')
+ 2 SYSTEMPATH\CodeIgniter.php(834): CodeIgniter\Router\Router->handle('insertar/5/jose/lorenzo/barriovillamil/jl@gmail.com')
+ 3 SYSTEMPATH\CodeIgniter.php(457): CodeIgniter\CodeIgniter->tryToRouteIt(Object(CodeIgniter\Router\RouteCollection))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 23:58:07 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 89.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(5)', '(jose)', '(lorenzo)', '(barriovillamil)', '(jlgmail.com)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:58:07 --> Error: Call to a member function getResult() on bool
+[Method: GET, Route: insertar/5/jose/lorenzo/barriovillamil/jlgmail.com]
+in APPPATH\Controllers\Home.php on line 91.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(5)', '(jose)', '(lorenzo)', '(barriovillamil)', '(jlgmail.com)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+WARNING - 2024-06-09 23:58:45 --> [DEPRECATED] Creation of dynamic property App\Controllers\Home::$db is deprecated in APPPATH\Controllers\Home.php on line 89.
+ 1 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 2 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 3 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 5 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 6 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+ERROR - 2024-06-09 23:58:45 --> ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(4). in C:\xampp\htdocs\api\system\Database\Postgre\Connection.php:193
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Que...', 'C:\\xampp\\htdocs...', 193)
+#1 C:\xampp\htdocs\api\system\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO per...')
+#2 C:\xampp\htdocs\api\system\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO per...')
+#3 C:\xampp\htdocs\api\system\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO per...')
+#4 C:\xampp\htdocs\api\app\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO per...')
+#5 C:\xampp\htdocs\api\system\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenar...', '(mvgmail.com)')
+#6 C:\xampp\htdocs\api\system\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+#7 C:\xampp\htdocs\api\system\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(NULL, Object(Config\Cache), false)
+#8 C:\xampp\htdocs\api\system\Boot.php(312): CodeIgniter\CodeIgniter->run()
+#9 C:\xampp\htdocs\api\system\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+#10 C:\xampp\htdocs\api\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+#11 {main}
+CRITICAL - 2024-06-09 23:58:45 --> CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(4).
+[Method: GET, Route: insertar/4/manuel/valdes/barriocentenario/mvgmail.com]
+in SYSTEMPATH\Database\BaseConnection.php on line 676.
+ 1 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 2 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 3 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 4 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 6 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 7 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:58:45 --> [Caused by] CodeIgniter\Database\Exceptions\DatabaseException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(4).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 198.
+ 1 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 2 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 3 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 4 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 5 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 6 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+ 8 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+ 9 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
+CRITICAL - 2024-06-09 23:58:45 --> [Caused by] ErrorException: pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(4).
+in SYSTEMPATH\Database\Postgre\Connection.php on line 193.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler(2, 'pg_query(): Query failed: ERROR:  llave duplicada viola restricción de unicidad «personas_pkey»
+DETAIL:  Ya existe la llave (id)=(4).', 'C:\\xampp\\htdocs\\api\\system\\Database\\Postgre\\Connection.php', 193)
+ 2 SYSTEMPATH\Database\Postgre\Connection.php(193): pg_query(Object(PgSql\Connection), 'INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 3 SYSTEMPATH\Database\BaseConnection.php(722): CodeIgniter\Database\Postgre\Connection->execute('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 4 SYSTEMPATH\Database\BaseConnection.php(636): CodeIgniter\Database\BaseConnection->simpleQuery('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 5 APPPATH\Controllers\Home.php(90): CodeIgniter\Database\BaseConnection->query('INSERT INTO personas (id,nombre,apellido,direccion,correo) VALUES ((4),\'(manuel)\',\'(valdes)\',\'(barriocentenario)\',\'(mvgmail.com)\')')
+ 6 SYSTEMPATH\CodeIgniter.php(933): App\Controllers\Home->insertar('(4)', '(manuel)', '(valdes)', '(barriocentenario)', '(mvgmail.com)')
+ 7 SYSTEMPATH\CodeIgniter.php(509): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Home))
+ 8 SYSTEMPATH\CodeIgniter.php(355): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 SYSTEMPATH\Boot.php(312): CodeIgniter\CodeIgniter->run()
+10 SYSTEMPATH\Boot.php(67): CodeIgniter\Boot::runCodeIgniter(Object(CodeIgniter\CodeIgniter))
+11 FCPATH\index.php(56): CodeIgniter\Boot::bootWeb(Object(Config\Paths))
